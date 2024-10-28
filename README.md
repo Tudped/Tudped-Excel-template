@@ -1,8 +1,6 @@
 # Tudped-Excel Template
 
-# Exploratory Data Analysis
-
-https://img.shields.io/badge/any_text-you_like-blue
+![Static Badge](https://img.shields.io/badge/Excel-Intermediate-blue)
 
 ## Overview
 List of Excel templates I've made and used in personal projects.
